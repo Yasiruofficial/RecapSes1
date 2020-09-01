@@ -47,7 +47,7 @@ public class BookServlet extends HttpServlet {
             book1.setDescription(description);
             book1.setUprice(Float.parseFloat(uprice));
         
-            BookDAO bookdao = new BookDAO();     
+            BookDAO bookdao = new BookDAO();   
             bookdao.addBook(book1);
              
          }

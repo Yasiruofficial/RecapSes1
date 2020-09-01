@@ -25,7 +25,7 @@
 </head>
 <body>
     <form action="Book/addBook" method="post">
-        <h1 align="center">ADD BOOK <span style="color: deeppink">STORE</span></h1>
+        <h1 align="center">ADD BOOK <span style="color: deeppink">STORE 1</span></h1>
         <br>
         <table align="center" cellspacing="10" cellpadding="10">
             <tr>
