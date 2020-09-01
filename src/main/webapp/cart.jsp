@@ -33,13 +33,10 @@
                 <td><input type="text" name="Name" class="txt"></td>
             </tr>
             <tr>
-                <td>AUTHOR</td>
-                <td><input type="text" name="author" class="txt"></td>
-            </tr>
-            <tr>
                 <td>Quantity</td>
                 <td><input type="text" name="qty" class="txt"></td>
             </tr>
+
                 <td colspan="2"><input type="submit" name="submit" value="ADD TO CART" class="btn"></td>
             </tr>
         </table>
